@@ -1,0 +1,19 @@
+Setup Lab - Support Cryptogram
+Theme: your main avenues for support.
+Help - https://grammar.yourdictionary.com/games-puzzles-and-worksheets/how-to-solve-cryptograms.html
+most common letters in the English language are E, T, A, O, and N, with I and S a close second.
+
+AJCJC | LZPD-LDYFDZIIPQF | ZEWPBYD ICCUPQFB | ICBBZFC PQBUDJKUYD YD ICQUYD
+q.e.e | P...-p.o...mm.n. | .....o. mee..n.. | me....e .n......o. o. men.o. <-used the hints..
+q.e.e | Pa..-p.o..amm.n. | a....o. mee..n.. | me..a.e .n......o. o. men.o. <- using common vowels and letters 
+q.e.e | Pai.-p.o..ammin. | a..i.o. mee.in.. | me..a.e in......o. o. men.o. <- using common vowels and letters 
+q.e.e | Pair-pro.rammin. | a..i.or mee.in.. | me..a.e in......or or men.or <- used r cause r is the most used letter in between P.o
+q.e.e | Pair-pro.rammin. | a..i.or meetin.. | me..a.e in.tr..tor or mentor <- used t because not much that fits in men.or spot and works
+q.e.e | Pair-programming | a..i.or meeting. | me..age in.tr..tor or mentor <- used s because of meetings
+Queue | Pair-programming | AdvisOr Meetings | Message Instructor Or Mentor <- filled in the blanks
+A = Q
+C = E
+I = M
+L = P
+Q = N
+Y = O
